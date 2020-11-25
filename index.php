@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Miniport by HTML5 UP</title>
+		<title>Alyssa Lerner First</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -89,8 +89,8 @@
 					<div class="row">
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-								<h3><a href="#">The Perfect Game</a></h3>
+								<a href="#" class="image featured"><img src="images/the-perfect-game.png" alt="" /></a>
+								<h3><a href="https://the-perfect-game.herokuapp.com">The Perfect Game</a></h3>
 								<p>
                   A video game recommendation engine to help you find the perfect game.
                   <br />
@@ -100,8 +100,8 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-								<h3><a href="#">Devinitely!</a></h3>
+								<a href="#" class="image featured"><img src="images/devinitely.png" alt="" /></a>
+								<h3><a href="https://devinitely.herokuapp.com">Devinitely!</a></h3>
 								<p>
                   A streamlined job lead tracking system to turbocharge your job search.
                   <br />
@@ -111,8 +111,8 @@
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-								<h3><a href="#">Slidey Pix</a></h3>
+								<a href="#" class="image featured"><img src="images/slidey-pix.png" alt="" /></a>
+								<h3><a href="https://slidey-pix.herokuapp.com">Slidey Pix</a></h3>
 								<p>
                   Create and solve the classic 15 Puzzle to reveal a customizable image.
                   <br />
@@ -143,7 +143,71 @@
 						</div> -->
 					</div>
 					<footer>
-						<p>Lorem ipsum dolor sit sapien vestibulum ipsum primis?</p>
+						<p>Looking for my science communication work?</p>
+						<a href="#writing" class="button large scrolly">Check out my writing</a>
+					</footer>
+				</div>
+			</article>
+
+    <!-- Writing -->
+			<article id="writing" class="wrapper style3">
+				<div class="container">
+					<header>
+						<h2>Science and Tech Writing</h2>
+						<p>Complex concepts in science and technology, made accessible for an audience of millions.</p>
+					</header>
+					<div class="row">
+						<div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<iframe class="image featured" src="https://www.youtube.com/embed/DF8Ka8Jh0BQ"></iframe>
+								<h3><a href="https://www.youtube.com/watch?v=DF8Ka8Jh0BQ">5 of the Worst Computer Viruses Ever</a></h3>
+								<p>
+                  Viruses have caused all kinds of harm over the years. These were some of the most devastating.
+                </p>
+							</article>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<iframe class="image featured" src="https://www.youtube.com/embed/UCY0bDtRxzM"></iframe>
+								<h3><a href="https://www.youtube.com/watch?v=UCY0bDtRxzM">How Hackers Hack, and How To Stop Them</a></h3>
+								<p>
+                  Hacking is tough, but stopping hackers can be even tougher. Luckily, there are ways to protect ourselves.
+                </p>
+							</article>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<iframe class="image featured" src="https://www.youtube.com/embed/-yFZGF8FHSg"></iframe>
+								<h3><a href="https://www.youtube.com/watch?v=-yFZGF8FHSg">Cryptography: The Science of Making and Breaking Codes</a></h3>
+								<p>
+                  It’s hard to make a code truly unbreakable. 
+                </p>
+							</article>
+						</div>
+						<!-- <div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+								<h3><a href="#">Tempus dolore</a></h3>
+								<p>Ornare nulla proin odio consequat.</p>
+							</article>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+								<h3><a href="#">Feugiat aliquam</a></h3>
+								<p>Ornare nulla proin odio consequat.</p>
+							</article>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<article class="box style2">
+								<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+								<h3><a href="#">Sed amet ornare</a></h3>
+								<p>Ornare nulla proin odio consequat.</p>
+							</article>
+						</div> -->
+					</div>
+					<footer>
+						<p>Interested in learning more?</p>
 						<a href="#contact" class="button large scrolly">Get in touch with me</a>
 					</footer>
 				</div>
@@ -153,8 +217,8 @@
 			<article id="contact" class="wrapper style4">
 				<div class="container medium">
 					<header>
-						<h2>Have me make stuff for you.</h2>
-						<p>Ornare nulla proin odio consequat sapien vestibulum ipsum.</p>
+						<h2>Contact Me</h2>
+						<p>I'll do my best to get back to you within 24 hours.</p>
 					</header>
 					<div class="row">
 						<div class="col-12">
