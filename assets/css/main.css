@@ -170,7 +170,7 @@ input, select, textarea {
 	}
 
 		h1 strong {
-			font-weight: 700;
+			font-weight: 600;
 		}
 
 	h2 {
@@ -1717,7 +1717,13 @@ input, select, textarea {
 		.button.large {
 			font-size: 1.5em;
 			letter-spacing: -0.025em;
-		}
+    }
+    
+    button.small,
+    .button.small {
+      font-size: 1em;
+      max-width: 10em;
+    }
 
 		input[type="button"].alt,
 		input[type="submit"].alt,
